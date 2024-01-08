@@ -1,6 +1,7 @@
 # 프로젝트
 
-![Alt text](./src/assets/projectMain.png)
+![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/a96827cb-a104-4675-95e8-172ca34c205f)
+
 
 <b>프로젝트 이름</b> : 스토리 텔러 <br/>
 
