@@ -55,10 +55,17 @@ Development
  ![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/e546d095-6dec-4b9b-a14f-a9f2755b9b7f)
 <br/>
 
-4. About 페이지: 페이지 소개 페이지입니다.<br/><br/>![Alt text](./src/assets/image-5.png)<br/>
+4. About 페이지: 페이지 소개 페이지입니다.<br/><br/>![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/89fb74c3-1acc-4975-97aa-e2ba3c585c14)
+<br/>
 
-5. Admin 페이지: 글 목록 확인 및 작성이 가능합니다. 로그인을 해야 글 작성 및 수정이 가능합니다.<br/><br/>![Alt text](./src/assets/image-6.png)<br/>
+5. Admin 페이지: 글 목록 확인 및 작성이 가능합니다. 로그인을 해야 글 작성 및 수정이 가능합니다.<br/><br/>![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/582b3cb2-7fe9-4a80-9baa-598d91b1f4b2)
 
-6. Write 페이지: 에디터가 글을 작성할 수 있는 페이지입니다.<br/><br/>![Alt text](./src/assets/image-7.png) ![Alt text](./src/assets/image-8.png)<br/>
+<br/>
 
-7. Edit 페이지: 드라마 별 내용을 수정할 수 있습니다. 수정 전 내용도 확인 가능합니다.<br/><br/>![Alt text](./src/assets/image-9.png) ![Alt text](./src/assets/image-10.png)
+6. Write 페이지: 에디터가 글을 작성할 수 있는 페이지입니다.<br/><br/>![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/5c2ea81e-49b9-4cba-9122-2e1a944ebe9d)
+ ![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/5173d308-672c-44c7-9e22-98c30eacc0c1)
+<br/>
+
+7. Edit 페이지: 드라마 별 내용을 수정할 수 있습니다. 수정 전 내용도 확인 가능합니다.<br/><br/>![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/f9cbc042-6b89-4324-85d1-0be6abbfda9d)
+ ![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/69b9e730-a809-4755-95c1-8230bf475e07)
+
