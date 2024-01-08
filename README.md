@@ -42,7 +42,9 @@ Development
 
 # 페이지 소개
 
-1. Main 페이지: 장르 카테고리 별 드라마를 카드 형식으로 추천합니다. <br/><br/>![Alt text](./src/assets/image-13.png)![Alt text](./src/assets/image.png) <br/>
+1. Main 페이지: 장르 카테고리 별 드라마를 카드 형식으로 추천합니다. <br/><br/>![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/0acba208-10bb-4def-a683-8d63e9613cd3)
+![Uploading image.png…]()
+ <br/>
 
 2. Search 페이지: 카테고리 별로 드라마를 확인할 수 있으며 결과가 없을 때 추천 목록이 뜹니다.<br/><br/>![Alt text](./src/assets/image-1.png)![Alt text](./src/assets/image-2.png)<br/>
 
