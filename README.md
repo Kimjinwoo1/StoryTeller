@@ -51,7 +51,9 @@ Development
 ![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/afd03917-bd67-469a-a742-b8238735177c)
 <br/>
 
-3. Detail 페이지: 카드를 누르면 드라마 세부 내용을 확인할 수 있습니다.<br/><br/>![Alt text](./src/assets/image-3.png) ![Alt text](./src/assets/image-4.png)<br/>
+3. Detail 페이지: 카드를 누르면 드라마 세부 내용을 확인할 수 있습니다.<br/><br/>![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/a4c3ce12-a843-4333-bb97-200c4ade4eea)
+ ![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/e546d095-6dec-4b9b-a14f-a9f2755b9b7f)
+<br/>
 
 4. About 페이지: 페이지 소개 페이지입니다.<br/><br/>![Alt text](./src/assets/image-5.png)<br/>
 
