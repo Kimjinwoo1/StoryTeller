@@ -47,7 +47,9 @@ Development
 
  <br/>
 
-2. Search 페이지: 카테고리 별로 드라마를 확인할 수 있으며 결과가 없을 때 추천 목록이 뜹니다.<br/><br/>![Alt text](./src/assets/image-1.png)![Alt text](./src/assets/image-2.png)<br/>
+2. Search 페이지: 카테고리 별로 드라마를 확인할 수 있으며 결과가 없을 때 추천 목록이 뜹니다.<br/>![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/b86fa4fe-6a8f-4049-9f46-7243261d2bc3)<br/>
+![image](https://github.com/Kimjinwoo1/StoryTeller/assets/104746237/afd03917-bd67-469a-a742-b8238735177c)
+<br/>
 
 3. Detail 페이지: 카드를 누르면 드라마 세부 내용을 확인할 수 있습니다.<br/><br/>![Alt text](./src/assets/image-3.png) ![Alt text](./src/assets/image-4.png)<br/>
 
